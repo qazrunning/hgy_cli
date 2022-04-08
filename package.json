@@ -1,0 +1,15 @@
+{
+  "name": "hgy_cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "./bin/cli.js",
+  "type": "module",
+  "dependencies": {
+    "chalk": "^5.0.1",
+    "commander": "^9.1.0",
+    "download-git-repo": "^3.0.2",
+    "inquirer": "^8.2.2",
+    "ora": "^6.1.0"
+  }
+}
