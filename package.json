@@ -1,6 +1,6 @@
 {
   "name": "hgy_cli",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "main": "index.js",
   "license": "MIT",
   "bin": "./bin/cli.js",
@@ -11,5 +11,17 @@
     "download-git-repo": "^3.0.2",
     "inquirer": "^8.2.2",
     "ora": "^6.1.0"
-  }
+  },
+  "author": {
+    "name": "qazrunning",
+    "email": "920969072@qq.com"
+  },
+  "keywords": [
+    "hgy_cli",
+    "cli",
+    "脚手架",
+    "vue",
+    "vite",
+    "react"
+  ]
 }
