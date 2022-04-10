@@ -5,7 +5,7 @@
 ```
 npm install -g hgy_cli
 #OR
-yarn global add hgy_cli
+yarn global add hgy_cli（暂不支持）
 ```
 
 ```
